@@ -12,4 +12,9 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require_tree .
+//= require dust
+//= require underscore
+//= require backbone
+//= require xplain
+//= require grammar
+//= require app
